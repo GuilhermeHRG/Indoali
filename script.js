@@ -15,7 +15,7 @@ document.getElementById('indoOnde').addEventListener('click', function() {
     // Centralizar o vídeo na tela
     meuVideo.style.display = 'block';
     meuVideo.style.margin = 'auto';
-    meuVideo.style.width = '80%'; // Você pode ajustar o tamanho conforme desejado
+    meuVideo.style.width = '80%'; 
 
     // Iniciar o vídeo
     meuVideo.play();
